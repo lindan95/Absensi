@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Monitoring Kehadiran Siswa",
+  "description": "Aplikasi monitoring kehadiran siswa dan guru piket berbasis QR Code dengan integrasi Google Sheets dan Google Apps Script",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
